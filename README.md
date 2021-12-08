@@ -1,4 +1,4 @@
-### Olá, eu sou o Kaique 👋
+### Prazer, eu sou o Kaique 👋
 
 - :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
 - :books:&nbsp;&nbsp; Graduado em Engenharia da Computação
