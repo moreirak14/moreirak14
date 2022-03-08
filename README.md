@@ -1,10 +1,9 @@
-### Prazer, eu sou o Kaique 👋
+### Welcome 👋
 
 - :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
 - :books:&nbsp;&nbsp; Graduado em Engenharia da Computação
 - 🎓 &nbsp; Estudando cultura FullCycle | DevOps
-- 💼 &nbsp; Trabalhando como **Engenheiro de Software Júnior** na <a href="https://web.faci.ly/">Facily</a>
-- 🌱 &nbsp; Constante aprendizado em **Python FastAPI**
+- 💼 &nbsp; Trabalhando como **Engenheiro de Software**
 
 
 <div> 
@@ -20,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirak14&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🛠 Tecnologias | Tools
+## 🛠 Tools
 
 <img align="center" alt="Kaique-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Kaique-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
